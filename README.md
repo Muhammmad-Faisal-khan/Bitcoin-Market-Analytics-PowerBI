@@ -82,3 +82,12 @@ Focuses on price behavior and volatility:
 * Analytical storytelling
 * KPI and metric design
 * GitHub project documentation
+
+## Dashboard Preview
+
+### Page 1 — Bitcoin Price Forecast & Risk Analysis
+![Page 1](dashboard/Page1_Forecast_Risk.png)
+
+### Page 2 — Executive Snapshot & KPI Monitoring
+![Page 2](dashboard/Page2_Executive_Snapshot.png)
+
